@@ -6,9 +6,9 @@
 - 🤝 Atuei como representante de turma e membro da Empresa Júnior da universidade.  
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/vituzer4">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vituzer4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituzer4&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### 🚀 Tecnologias
@@ -23,7 +23,6 @@
   
 ### 🌎 Onde me encontrar
 <div><br>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://SEU-PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://instagram.com/vituzer4dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vituzer4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
