@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou o Victor Ricardo!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia, desenvolvimento web e boas práticas de código.  
+💻 Apaixonado por tecnologia, Livros e Treino
 🚀 Sempre em busca de evoluir e transformar ideias em soluções digitais.
 
 ---
 
 ### 🧠 O que estou aprendendo atualmente
-- **Java** (POO, estruturas de dados e boas práticas)
+- **Java,** (POO, estruturas de dados e boas práticas)
+- **MYSQL** (SQL)
 - **HTML, CSS, Bootstrap** (desenvolvimento front-end)
 - **Git e GitHub** (controle de versão e colaboração)
 - **Modelagem de Dados** (UML, DER)
